@@ -21,7 +21,8 @@ The primary goal of this project is to enhance Atliq Grands' market share and re
 - **Enhanced Customer Satisfaction**: By analyzing customer feedback, we identified areas for improvement and boosted overall customer satisfaction by average rating.
 
 - **Optimized Revenue Pricing Strategies**: Data-driven approach allowed for dynamic pricing, resulting in higher revenues and better market positioning.
-  ##  Skills learnt from project
+- 
+##  Skills learnt from project
   ### key metrices learnt:
   1. revenue
   2. RevPAR
