@@ -24,14 +24,14 @@ The primary goal of this project is to enhance Atliq Grands' market share and re
   
 ##  Skills learnt from project
   ### key metrices learnt:
-  1. revenue
+  1. Revenue
   2. RevPAR
   3. ADR
   4. DBRN
   5. DSRN
   6. DURN
   7. Realisation %
-  8. occupancy and cancellation %
+  8. Occupancy and Cancellation %
   ### power BI fundamentals
   1. data cleaning and snowflake schema modelling
   2. learnt about page navigation, tool tip,conditional formatting
